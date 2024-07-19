@@ -1,2 +1,2 @@
-# EXAM-PARCIAL-II
- Este es mi solucion a mi examen parcial numero II del cruso Topicos de bases de datos, he utilizado React y Mongodb
+# PROYECTO-LABORATORIO-TBD
+Este es mi proyecto de laboratorio, en el cual utilizo REACT, y MONGODB para poder configurar lo solicitado y explicado en clase con LARAVEL

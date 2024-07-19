@@ -1,17 +1,17 @@
 import { Router } from "express";
 import {
-    createAlumno,
-    getAlumnos,
-    getAlumnoById,
+    createPersona,
+    getPersonas,
+    getPersonaById,
     /* updateAlumno,
     deleteAlumno */
 } from "../Controllers/auth.controllers.js";
 
 const router = Router();
 
-router.post('/', createAlumno);
-router.get('/', getAlumnos);
-router.post('/:id', getAlumnoById);
+router.post('/', createPersona);
+router.get('/', getPersonas);
+router.post('/:id', getPersonaById);
 /* router.post('/:id', updateAlumno);
 router.post('/:id', deleteAlumno); */
 

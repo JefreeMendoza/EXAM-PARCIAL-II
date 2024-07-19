@@ -1,14 +1,14 @@
 import NavBar from "../Components/NavBar";
 
-function Home() {
+function Asesoramiento() {
     return (  
         <>
             <NavBar/>
             <h1>
-                ESTAS EN EL HOME
+                ESTAS EN LA PAGINA DE ASESORAMIENTO
             </h1>
         </>
     );
 }
 
-export default Home;
+export default Asesoramiento;

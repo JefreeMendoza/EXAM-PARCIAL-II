@@ -13,3 +13,5 @@ export const getAlumnoById = async (id) => {
 export const createAlumno = async (data) => {
     return await axios.post(API, data);
 };
+
+export const registerRequest = user => axios.post(`${API}/register`, user);

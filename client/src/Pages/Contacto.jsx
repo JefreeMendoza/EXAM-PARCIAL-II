@@ -1,14 +1,14 @@
 import NavBar from "../Components/NavBar";
 
-function Home() {
+function Contacto() {
     return (  
         <>
             <NavBar/>
             <h1>
-                ESTAS EN EL HOME
+                ESTAS EN LA PAGINA DE CONTACTO
             </h1>
         </>
     );
 }
 
-export default Home;
+export default Contacto;

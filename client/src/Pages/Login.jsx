@@ -1,14 +1,14 @@
 import NavBar from "../Components/NavBar";
 
-function Home() {
-    return (  
+function Login() {
+    return (
         <>
-            <NavBar/>
+            <NavBar />
             <h1>
-                ESTAS EN EL HOME
+                ESTAS EN EL LOGIN
             </h1>
         </>
     );
 }
 
-export default Home;
+export default Login;
